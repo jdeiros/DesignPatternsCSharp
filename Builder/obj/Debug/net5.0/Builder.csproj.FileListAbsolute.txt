@@ -1,0 +1,16 @@
+C:\JDeiros.EY\repos\CSharpDesignPatternsImplementation\Builder\bin\Debug\net5.0\Builder.exe
+C:\JDeiros.EY\repos\CSharpDesignPatternsImplementation\Builder\bin\Debug\net5.0\Builder.deps.json
+C:\JDeiros.EY\repos\CSharpDesignPatternsImplementation\Builder\bin\Debug\net5.0\Builder.runtimeconfig.json
+C:\JDeiros.EY\repos\CSharpDesignPatternsImplementation\Builder\bin\Debug\net5.0\Builder.runtimeconfig.dev.json
+C:\JDeiros.EY\repos\CSharpDesignPatternsImplementation\Builder\bin\Debug\net5.0\Builder.dll
+C:\JDeiros.EY\repos\CSharpDesignPatternsImplementation\Builder\bin\Debug\net5.0\ref\Builder.dll
+C:\JDeiros.EY\repos\CSharpDesignPatternsImplementation\Builder\bin\Debug\net5.0\Builder.pdb
+C:\JDeiros.EY\repos\CSharpDesignPatternsImplementation\Builder\obj\Debug\net5.0\Builder.csprojAssemblyReference.cache
+C:\JDeiros.EY\repos\CSharpDesignPatternsImplementation\Builder\obj\Debug\net5.0\Builder.GeneratedMSBuildEditorConfig.editorconfig
+C:\JDeiros.EY\repos\CSharpDesignPatternsImplementation\Builder\obj\Debug\net5.0\Builder.AssemblyInfoInputs.cache
+C:\JDeiros.EY\repos\CSharpDesignPatternsImplementation\Builder\obj\Debug\net5.0\Builder.AssemblyInfo.cs
+C:\JDeiros.EY\repos\CSharpDesignPatternsImplementation\Builder\obj\Debug\net5.0\Builder.csproj.CoreCompileInputs.cache
+C:\JDeiros.EY\repos\CSharpDesignPatternsImplementation\Builder\obj\Debug\net5.0\Builder.dll
+C:\JDeiros.EY\repos\CSharpDesignPatternsImplementation\Builder\obj\Debug\net5.0\ref\Builder.dll
+C:\JDeiros.EY\repos\CSharpDesignPatternsImplementation\Builder\obj\Debug\net5.0\Builder.pdb
+C:\JDeiros.EY\repos\CSharpDesignPatternsImplementation\Builder\obj\Debug\net5.0\Builder.genruntimeconfig.cache
